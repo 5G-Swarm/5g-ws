@@ -1,0 +1,21 @@
+[submodule "src/autoware_msgs"]
+	path = src/autoware_msgs
+	url = git@github.com:5G-Swarm/autoware_msgs.git
+[submodule "src/ros-drone-transfer"]
+	path = src/ros-drone-transfer
+	url = git@github.com:5G-Swarm/ros-drone-transfer.git
+[submodule "src/ros-rtk-driver"]
+	path = src/ros-rtk-driver
+	url = git@github.com:5G-Swarm/ros-rtk-driver.git
+[submodule "src/ros-edge-transfer"]
+	path = src/ros-edge-transfer
+	url = git@github.com:5G-Swarm/ros-edge-transfer.git
+[submodule "src/ros-vehicle-transfer"]
+	path = src/ros-vehicle-transfer
+	url = git@github.com:5G-Swarm/ros-vehicle-transfer.git
+[submodule "src/ros-cloud-transfer"]
+	path = src/ros-cloud-transfer
+	url = git@github.com:5G-Swarm/ros-cloud-transfer.git
+[submodule "src/informer2"]
+	path = src/informer2
+	url = git@github.com:5G-Swarm/informer2.git
